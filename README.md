@@ -1,11 +1,12 @@
-<h1 align="center">¡Hi! 👋, I´m Jorge Salazar</h1>
+<h1 align="center">¡Hi! 👋, I´m David Ortiz</h1>
 <h2 align="center" style="color: blue;">About me</h2>
-<h3 align="center">Law graduate and lawyer👨🏼‍⚖️, reoriented towards my passion for technology 💻. Graduated as a Higher Technician in Web Application Development (DAW), and specializing as a web developer for Microsoft Azure. I'm also specializing in cybersecurity, all for secure browsing 😄 and to satisfy my hunger for knowledge. My goal is to become a great full-stack developer, and that's why I'm researching and trying to improve every day. 💪💪 </h3>
-<h3>I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 </h3>
-<h3>🕵🏼‍♂️👨🏼‍💻 I worked for years as a lawyer, specializing in property law 🏬, but I decided to change my life and fulfill the dream of exploring new technologies from within. That's why I prefer to develop, bring them to life, and create beautiful projects.</h3>
-<h3>I love reading, history (I'm a good tour guide, 😜), movies, sports🏃🏼‍♂️, and videogames.</h3>
+<h3 align="center">Bilingual Web Application Development Professional 🌐 and Business Administration Graduate 🎓. Proficient in technologies such as React and ASP.NET Core. My journey began as a Higher Technician in Web Application Development (DAW), and I've since expanded my expertise to encompass both web development for Microsoft Azure and business administration. Currently, I'm honing my skills in cybersecurity to ensure secure online experiences 😄 and to satisfy my insatiable hunger for knowledge. My ultimate goal is to evolve into a proficient full-stack developer, a journey I embark upon by researching and striving for improvement every day. 💪💪 </h3>
 
-- 👨‍💻 All of my projects are available at [https://portafoliojorgesm.netlify.app](https://portafoliojorgesm.netlify.app)
+<h3>I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 </h3>
+
+<h3>Passionate individual with a diverse set of interests! I find joy in exploring the realms of literature, playing musical instruments🎵, delving into coding challenges💻, history (did I mention I make an excellent tour guide? 😜), staying active through sports🏃🏼‍♂️, and embracing the captivating world of video games. Beyond my technical skills, I bring a well-rounded personality and a thirst for knowledge in programming languages and technologies, making me a valuable asset to any team! Let's build something amazing together. 💼🚀</h3>
+
+- 👨‍💻 All of my projects are available at [https://hdortizporfolio.netlify.app/](https://hdortizporfolio.netlify.app/) 
 
 - 💬 Ask me about **HTML5, CSS3, PHP, Java, JavaScript, React, Bootstrap, SASS, MySQL.**
 
