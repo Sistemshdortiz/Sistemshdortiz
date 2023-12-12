@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hdortizporfolio.netlify.app/](https://hdortizporfolio.netlify.app/) 
 
-- 💬 Ask me about **HTML5, CSS3, PHP, Java, JavaScript, React, Bootstrap, SASS, MySQL.**
+- 💬 Ask me about **ASP.NET Core, React, Java,C#, JavaScript, Php, Bootstrap, SASS, MySQL.**
 
 - 📫 How to reach me **hdortizj@gmail.com**
 
