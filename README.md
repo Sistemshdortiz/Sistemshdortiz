@@ -7,6 +7,8 @@
 <h3>Passionate individual with a diverse set of interests! I find joy in exploring the realms of literature, playing musical instruments🎵, delving into coding challenges💻, history (did I mention I make an excellent tour guide? 😜), staying active through sports🏃🏼‍♂️, and embracing the captivating world of video games. Beyond my technical skills, I bring a well-rounded personality and a thirst for knowledge in programming languages and technologies, making me a valuable asset to any team! Let's build something amazing together. 💼🚀</h3>
 
 .[!NOTE].
+.[!IMPORTANT].
+ESTO ES IMPORTANTE
 - 👨‍💻 All of my projects are available at [https://hdortizporfolio.netlify.app/](https://hdortizporfolio.netlify.app/) 
 
 - 💬 Ask me about **ASP.NET Core, React, Java,C#, JavaScript, Php, Bootstrap, SASS, MySQL.**
