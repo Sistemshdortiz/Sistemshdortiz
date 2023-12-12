@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **hdortizj@gmail.com**
 
-- ⚡ Fun fact **I am a determined computer scientist, a lawyer with extensive experience, who enjoys sports, nature, traveling, making friends, and "The Lord of the Rings"... A curious mix, 😂.**
+- ⚡ Fun fact: **I am a determined Computer Scientist and Business Administrator with a diverse background. I thrive on challenges and enjoy blending my analytical skills with creative problem-solving. Outside of the professional realm, I am passionate about sports, nature, exploring new destinations, building connections, and indulging in a variety of interests, creating a unique and dynamic mix of experiences. 😄**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
